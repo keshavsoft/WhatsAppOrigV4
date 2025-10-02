@@ -1,0 +1,1 @@
+GET http://localhost:9114/V6/BillsTable/AggregateFunctions/Average/{ColumnName}

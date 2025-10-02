@@ -1,0 +1,7 @@
+POST http://localhost:9114/V6/messages/Insert/Default
+Content-Type: application/json
+
+[
+  "sample1",
+  "sample2"
+]

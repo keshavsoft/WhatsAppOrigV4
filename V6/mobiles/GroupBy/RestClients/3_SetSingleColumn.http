@@ -1,0 +1,6 @@
+POST http://localhost:9114/V6/mobiles/GroupBy/SetSingleColumn
+Content-Type: application/json
+
+[
+	{ColumnsName}
+]

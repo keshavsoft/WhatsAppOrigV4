@@ -1,0 +1,1 @@
+GET http://localhost:9114/SV6/BillItemsTable/ReadSchema/FieldsOnly

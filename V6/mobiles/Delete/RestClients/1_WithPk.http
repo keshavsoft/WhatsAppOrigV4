@@ -1,0 +1,1 @@
+DELETE http://localhost:9114/V6/mobiles/Delete/WithPk/{pk}

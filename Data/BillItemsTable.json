@@ -1,0 +1,22 @@
+[
+  {
+    "ItemName": "Shirt",
+    "Rate": 100,
+    "Qty": 1,
+    "DiscPer": 10,
+    "Amount": 90,
+    "FK": 1,
+    "pk": 1,
+    "ServerInsertedTimeStamp": "2025-10-02T08:27:24.744Z"
+  },
+  {
+    "ItemName": "Pant",
+    "Rate": 250,
+    "Qty": 2,
+    "DiscPer": 20,
+    "Amount": 400,
+    "FK": "1",
+    "pk": 2,
+    "ServerInsertedTimeStamp": "2025-10-02T08:30:54.827Z"
+  }
+]

@@ -1,0 +1,6 @@
+POST http://localhost:9114/SV6/messages/Insert/BulkAsIs
+Content-Type: application/json
+
+[
+  {}
+]

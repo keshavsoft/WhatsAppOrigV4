@@ -21,6 +21,8 @@ import { router as routerFromSecret } from "./Secret/routes.js";
 import { router as routerFromUsers } from "./Users/routes.js";
 import { router as routerFromV5 } from "./V5/routes.js";
 import { router as routerFromSV5 } from "./SV5/routes.js";
+import { router as routerFromV6 } from "./V6/routes.js";
+import { router as routerFromSV6 } from "./SV6/routes.js";
 
 app.use(express.static('Public'));
 app.use(cookieParser());
@@ -33,6 +35,8 @@ app.use("/Secret", routerFromSecret);
 app.use("/Users", routerFromUsers);
 app.use("/V5", routerFromV5);
 app.use("/SV5", StartFuncFromMiddleware, routerFromSV5);
+app.use("/V6", routerFromV6);
+app.use("/SV6", StartFuncFromMiddleware, routerFromSV6);
 
 StartFuncFromWebSocketServer(server);
 

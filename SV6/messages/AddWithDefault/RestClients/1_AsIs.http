@@ -1,0 +1,2 @@
+POST http://localhost:9114/SV6/messages/AddWithDefault/AsIs
+Content-Type: application/json

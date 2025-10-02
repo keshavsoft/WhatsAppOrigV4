@@ -55,4 +55,8 @@ If you want to run the server with environment variables:
 
 - from v2 started...
 
+### 1.1.2
+
+- simle billing working good
+
 ---

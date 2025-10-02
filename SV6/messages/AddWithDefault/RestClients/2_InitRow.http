@@ -1,0 +1,4 @@
+POST http://localhost:9114/SV6/messages/AddWithDefault/InitRow/{Key}
+Content-Type: application/json
+
+{ "ColumnName": "Value" }

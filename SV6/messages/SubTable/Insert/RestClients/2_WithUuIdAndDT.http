@@ -1,0 +1,4 @@
+POST http://localhost:9114/SV6/messages/SubTable/Insert/WithUuIdAndDT/{RowIndex}/{KeyName}
+Content-Type: application/json
+
+{}
