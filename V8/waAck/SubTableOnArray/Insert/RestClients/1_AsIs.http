@@ -1,0 +1,4 @@
+POST http://localhost:9114/V8/waAck/SubTableOnArray/Insert/AsIs/{RowIndex}/{KeyName}
+Content-Type: application/json
+
+{}

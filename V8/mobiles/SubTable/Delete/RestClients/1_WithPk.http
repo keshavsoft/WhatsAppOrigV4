@@ -1,0 +1,1 @@
+DELETE http://localhost:9114/V8/mobiles/SubTable/Delete/WithPk/{RowPk}/{KeyName}/{Key}

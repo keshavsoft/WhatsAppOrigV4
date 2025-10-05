@@ -24,6 +24,7 @@ import { router as routerFromSV5 } from "./SV5/routes.js";
 import { router as routerFromV6 } from "./V6/routes.js";
 import { router as routerFromSV6 } from "./SV6/routes.js";
 import { router as routerFromV7 } from "./V7/routes.js";
+import { router as routerFromV8 } from "./V8/routes.js";
 
 app.use(express.static('Public'));
 app.use(cookieParser());
@@ -41,6 +42,7 @@ app.use("/SV5", StartFuncFromMiddleware, routerFromSV5);
 app.use("/V6", routerFromV6);
 app.use("/SV6", StartFuncFromMiddleware, routerFromSV6);
 app.use("/V7", routerFromV7);
+app.use("/V8", routerFromV8);
 
 StartFuncFromWebSocketServer(server);
 

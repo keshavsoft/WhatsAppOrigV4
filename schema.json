@@ -5,6 +5,8 @@
         "messages",
         "BillsTable",
         "BillItemsTable",
-        "waAck"
+        "waAck",
+        "waAckRead",
+        "waAckSent"
     ]
 }

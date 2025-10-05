@@ -1,0 +1,6 @@
+POST http://localhost:9114/V8/waAckRead/GroupBy/SingleColLength
+Content-Type: application/json
+
+[
+	{ColumnsName}
+]

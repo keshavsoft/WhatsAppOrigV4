@@ -28,7 +28,7 @@ const StartFunc = ({ inMsg }) => {
     let LocalInsertObject = {};
 
     LocalInsertObject.WAAckId = inMsg.id.id;
-    LocalInsertObject.DeliveredDT = new Date();
+    LocalInsertObject.ReadTS = new Date();
 
     LocalBillsDataAsJson.push(LocalInsertObject);
 

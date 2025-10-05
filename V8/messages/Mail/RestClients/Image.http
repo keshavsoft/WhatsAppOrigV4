@@ -1,0 +1,4 @@
+POST http://localhost:9114/V8/messages/Mail/Image
+Content-Type: application/json
+
+{}

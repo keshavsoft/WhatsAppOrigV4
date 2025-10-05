@@ -1,0 +1,7 @@
+POST http://localhost:9114/V8/waAckSent/Insert/AsIs
+Content-Type: application/json
+
+{
+  "WAAckId": "",
+  "DeliveredDT": ""
+}

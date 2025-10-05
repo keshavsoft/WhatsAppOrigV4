@@ -1,0 +1,7 @@
+POST http://localhost:9114/V8/waAckRead/Alter/ColumnsWithPk/{pk}
+Content-Type: application/json
+
+{
+  "WAAckId": "",
+  "DeliveredDT": ""
+}

@@ -1,0 +1,6 @@
+POST http://localhost:9114/V8/waAck/GroupBy/SingleColumnSum/{GroupByColumnName}
+Content-Type: application/json
+
+[
+	"SumColumnName"
+]

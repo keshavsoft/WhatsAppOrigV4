@@ -75,4 +75,8 @@ If you want to run the server with environment variables:
 
 - wa tables added
 
+### 1.1.7
+
+- V7 only nonsec for array
+
 ---

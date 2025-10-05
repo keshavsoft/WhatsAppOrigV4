@@ -1,0 +1,9 @@
+POST http://localhost:9114/V8/waAckRead/Insert/BulkAsIs
+Content-Type: application/json
+
+[
+  {
+    "WAAckId": "",
+    "DeliveredDT": ""
+  }
+]
