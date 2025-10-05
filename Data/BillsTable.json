@@ -1,12 +1,1032 @@
 [
   {
-    "BuyerName": "Keshav",
+    "BuyerName": "srinivasa rao",
+    "BuyerAddress": "",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 2,
+    "ServerInsertedTimeStamp": "2025-10-01T06:41:51.450Z"
+  },
+  {
+    "BuyerName": "Om Venkatesaya",
+    "BuyerAddress": "Tirupati",
+    "BuyerGST": "",
+    "InvoiceNo": "316",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 3,
+    "ServerInsertedTimeStamp": "2025-10-01T09:34:31.874Z"
+  },
+  {
+    "BuyerName": "Keshav4",
+    "BuyerAddress": "kkd",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 4,
+    "ServerInsertedTimeStamp": "2025-10-01T10:31:50.195Z"
+  },
+  {
+    "BuyerName": "khan",
+    "BuyerAddress": "kkd",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 5,
+    "ServerInsertedTimeStamp": "2025-10-01T10:38:55.302Z"
+  },
+  {
+    "BuyerName": "YASIN",
+    "BuyerAddress": "PEDDAPURAM",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 7,
+    "ServerInsertedTimeStamp": "2025-10-01T10:44:31.729Z"
+  },
+  {
+    "BuyerName": "ssrKeshav",
+    "BuyerAddress": "kkd",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 8,
+    "ServerInsertedTimeStamp": "2025-10-01T11:18:37.519Z"
+  },
+  {
+    "BuyerName": "tatarao",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 9,
+    "ServerInsertedTimeStamp": "2025-10-01T11:29:42.008Z"
+  },
+  {
+    "BuyerName": "narayana school",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 10,
+    "ServerInsertedTimeStamp": "2025-10-01T11:53:56.667Z"
+  },
+  {
+    "BuyerName": "dhaya",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 11,
+    "ServerInsertedTimeStamp": "2025-10-01T12:38:22.016Z"
+  },
+  {
+    "BuyerName": "govindhurajulu auto spares",
+    "BuyerAddress": "gollapalem",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 12,
+    "ServerInsertedTimeStamp": "2025-10-01T13:02:52.083Z"
+  },
+  {
+    "BuyerName": "govindhurajulu spares",
+    "BuyerAddress": "gollapalem",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 13,
+    "ServerInsertedTimeStamp": "2025-10-01T13:11:44.883Z"
+  },
+  {
+    "BuyerName": "kumar garu",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 14,
+    "ServerInsertedTimeStamp": "2025-10-01T13:19:20.707Z"
+  },
+  {
+    "BuyerName": "likith auto works",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 15,
+    "ServerInsertedTimeStamp": "2025-10-01T13:20:51.589Z"
+  },
+  {
+    "BuyerName": "venkatesh",
+    "BuyerAddress": "gollaprolu",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 16,
+    "ServerInsertedTimeStamp": "2025-10-01T13:24:01.776Z"
+  },
+  {
+    "BuyerName": "govindhurajulu auto spares",
+    "BuyerAddress": "gollapalem",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 17,
+    "ServerInsertedTimeStamp": "2025-10-01T13:28:47.323Z"
+  },
+  {
+    "BuyerName": "giri",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 18,
+    "ServerInsertedTimeStamp": "2025-10-01T13:35:01.988Z"
+  },
+  {
+    "BuyerName": "g venkata ramana",
+    "BuyerAddress": "mamidada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 19,
+    "ServerInsertedTimeStamp": "2025-10-01T13:49:46.644Z"
+  },
+  {
+    "BuyerName": "Bobby",
+    "BuyerAddress": "Gorripudi",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 20,
+    "ServerInsertedTimeStamp": "2025-10-01T14:28:26.436Z"
+  },
+  {
+    "BuyerName": "srinivas",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-01",
+    "InvoiceStateCode": "37",
+    "pk": 21,
+    "ServerInsertedTimeStamp": "2025-10-01T14:47:42.773Z"
+  },
+  {
+    "BuyerName": "giri mec",
+    "BuyerAddress": "kkd",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 22,
+    "ServerInsertedTimeStamp": "2025-10-02T04:53:31.808Z"
+  },
+  {
+    "BuyerName": "giri mec passion plus",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 23,
+    "ServerInsertedTimeStamp": "2025-10-02T05:05:11.137Z"
+  },
+  {
+    "BuyerName": "raju nellappanna centre",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 24,
+    "ServerInsertedTimeStamp": "2025-10-02T05:27:42.549Z"
+  },
+  {
+    "BuyerName": "DAILY SALES",
     "BuyerAddress": "",
     "BuyerGST": "",
     "InvoiceNo": "",
     "InvoiceDate": "2025-10-02",
     "InvoiceStateCode": "37",
-    "pk": 1,
-    "ServerInsertedTimeStamp": "2025-10-02T08:27:15.648Z"
+    "pk": 25,
+    "ServerInsertedTimeStamp": "2025-10-02T05:30:54.990Z"
+  },
+  {
+    "BuyerName": "giri mec",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 26,
+    "ServerInsertedTimeStamp": "2025-10-02T05:39:15.708Z"
+  },
+  {
+    "BuyerName": "govindhurajulu auto spares",
+    "BuyerAddress": "gollapalem",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 27,
+    "ServerInsertedTimeStamp": "2025-10-02T05:49:25.668Z"
+  },
+  {
+    "BuyerName": "DEVADHULA CHANDRARAO",
+    "BuyerAddress": "VELANGI",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 28,
+    "ServerInsertedTimeStamp": "2025-10-02T06:06:37.212Z"
+  },
+  {
+    "BuyerName": "Manga Raju",
+    "BuyerAddress": "Kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 29,
+    "ServerInsertedTimeStamp": "2025-10-02T06:27:10.366Z"
+  },
+  {
+    "BuyerName": "CIVIC AUTOMOBILES",
+    "BuyerAddress": "KAKINADA",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 30,
+    "ServerInsertedTimeStamp": "2025-10-02T06:49:04.575Z"
+  },
+  {
+    "BuyerName": "AS AUTOMOBILES",
+    "BuyerAddress": "PEDAPUDI",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 31,
+    "ServerInsertedTimeStamp": "2025-10-02T06:56:51.406Z"
+  },
+  {
+    "BuyerName": "SRI VENKATESWARA AUTOMOBILES",
+    "BuyerAddress": "GAIGALAPADU",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 32,
+    "ServerInsertedTimeStamp": "2025-10-02T07:11:48.087Z"
+  },
+  {
+    "BuyerName": "DEVADHULA CHANDRARAO",
+    "BuyerAddress": "VELANGI",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 33,
+    "ServerInsertedTimeStamp": "2025-10-02T07:40:03.788Z"
+  },
+  {
+    "BuyerName": "ARUN KUMAR",
+    "BuyerAddress": "KAKINADA",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 34,
+    "ServerInsertedTimeStamp": "2025-10-02T07:47:10.779Z"
+  },
+  {
+    "BuyerName": "DEVADHULA CHANDRARAO",
+    "BuyerAddress": "velangi",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 35,
+    "ServerInsertedTimeStamp": "2025-10-02T08:04:27.651Z"
+  },
+  {
+    "BuyerName": "DEVADHULA CHANDRARAO",
+    "BuyerAddress": "velangi",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 36,
+    "ServerInsertedTimeStamp": "2025-10-02T08:09:56.438Z"
+  },
+  {
+    "BuyerName": "DEVADHULA CHANDRARAO",
+    "BuyerAddress": "velangi",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-02",
+    "InvoiceStateCode": "37",
+    "pk": 37,
+    "ServerInsertedTimeStamp": "2025-10-02T08:19:07.390Z"
+  },
+  {
+    "BuyerName": "DAILY SALE",
+    "BuyerAddress": "KKD",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 38,
+    "ServerInsertedTimeStamp": "2025-10-03T04:31:16.518Z"
+  },
+  {
+    "BuyerName": "VIJAYA LAXMI AUTO SPARES",
+    "BuyerAddress": "KAKINADA 9032385825",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 39,
+    "ServerInsertedTimeStamp": "2025-10-03T04:32:50.115Z"
+  },
+  {
+    "BuyerName": "venkateswara cycles",
+    "BuyerAddress": "mamidada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 40,
+    "ServerInsertedTimeStamp": "2025-10-03T04:53:06.732Z"
+  },
+  {
+    "BuyerName": "JAGANATHAM",
+    "BuyerAddress": "KAKINADA",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 41,
+    "ServerInsertedTimeStamp": "2025-10-03T04:59:46.504Z"
+  },
+  {
+    "BuyerName": "DEVUDU",
+    "BuyerAddress": "KKD",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 42,
+    "ServerInsertedTimeStamp": "2025-10-03T05:04:47.308Z"
+  },
+  {
+    "BuyerName": "DEVADHULA CHANDRARAO",
+    "BuyerAddress": "VELANGI",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 43,
+    "ServerInsertedTimeStamp": "2025-10-03T05:09:55.451Z"
+  },
+  {
+    "BuyerName": "ANNAMAYYA",
+    "BuyerAddress": "KKD",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 44,
+    "ServerInsertedTimeStamp": "2025-10-03T05:11:59.718Z"
+  },
+  {
+    "BuyerName": "sathibabu",
+    "BuyerAddress": "kkd",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 45,
+    "ServerInsertedTimeStamp": "2025-10-03T06:03:38.335Z"
+  },
+  {
+    "BuyerName": "Vinod",
+    "BuyerAddress": "Kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 46,
+    "ServerInsertedTimeStamp": "2025-10-03T06:29:28.279Z"
+  },
+  {
+    "BuyerName": "K Satya narayana",
+    "BuyerAddress": "Kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 47,
+    "ServerInsertedTimeStamp": "2025-10-03T06:37:39.157Z"
+  },
+  {
+    "BuyerName": "M Suribabu",
+    "BuyerAddress": "Vakalapudi",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 48,
+    "ServerInsertedTimeStamp": "2025-10-03T06:41:31.553Z"
+  },
+  {
+    "BuyerName": "mani",
+    "BuyerAddress": "kkd",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 49,
+    "ServerInsertedTimeStamp": "2025-10-03T06:52:23.944Z"
+  },
+  {
+    "BuyerName": "rss prasad",
+    "BuyerAddress": "kakinad",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 50,
+    "ServerInsertedTimeStamp": "2025-10-03T07:01:22.098Z"
+  },
+  {
+    "BuyerName": "yasin consultency",
+    "BuyerAddress": "peddapuram",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 51,
+    "ServerInsertedTimeStamp": "2025-10-03T07:02:49.494Z"
+  },
+  {
+    "BuyerName": "Dinesh",
+    "BuyerAddress": "Kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 52,
+    "ServerInsertedTimeStamp": "2025-10-03T07:09:30.840Z"
+  },
+  {
+    "BuyerName": "Sandeep",
+    "BuyerAddress": "jagannaikpur",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 53,
+    "ServerInsertedTimeStamp": "2025-10-03T07:24:50.325Z"
+  },
+  {
+    "BuyerName": "likhit auto works",
+    "BuyerAddress": "kkd",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 54,
+    "ServerInsertedTimeStamp": "2025-10-03T08:10:47.920Z"
+  },
+  {
+    "BuyerName": "chinababu",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 55,
+    "ServerInsertedTimeStamp": "2025-10-03T08:57:48.436Z"
+  },
+  {
+    "BuyerName": "Sri Durga mahalakshmi bike",
+    "BuyerAddress": "Tallarevu",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 56,
+    "ServerInsertedTimeStamp": "2025-10-03T09:24:24.072Z"
+  },
+  {
+    "BuyerName": "Rambabu",
+    "BuyerAddress": "kajuluru",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 57,
+    "ServerInsertedTimeStamp": "2025-10-03T10:35:53.725Z"
+  },
+  {
+    "BuyerName": "rambabu",
+    "BuyerAddress": "kajuluru",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 58,
+    "ServerInsertedTimeStamp": "2025-10-03T10:37:58.737Z"
+  },
+  {
+    "BuyerName": "Yesu",
+    "BuyerAddress": "Jagannaikpur",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 59,
+    "ServerInsertedTimeStamp": "2025-10-03T11:22:01.790Z"
+  },
+  {
+    "BuyerName": "annamayya",
+    "BuyerAddress": "kkd",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 60,
+    "ServerInsertedTimeStamp": "2025-10-03T11:38:03.355Z"
+  },
+  {
+    "BuyerName": "venkateswara automobiles",
+    "BuyerAddress": "gaigalapadu",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 61,
+    "ServerInsertedTimeStamp": "2025-10-03T11:46:51.086Z"
+  },
+  {
+    "BuyerName": "Kota Subhramanyam",
+    "BuyerAddress": "Patavala",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 62,
+    "ServerInsertedTimeStamp": "2025-10-03T11:53:51.132Z"
+  },
+  {
+    "BuyerName": "nanji mechanic",
+    "BuyerAddress": "gollaprolu",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 63,
+    "ServerInsertedTimeStamp": "2025-10-03T12:29:19.540Z"
+  },
+  {
+    "BuyerName": "MANI",
+    "BuyerAddress": "KKD",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 64,
+    "ServerInsertedTimeStamp": "2025-10-03T13:16:01.399Z"
+  },
+  {
+    "BuyerName": "veerababu",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 65,
+    "ServerInsertedTimeStamp": "2025-10-03T13:46:29.531Z"
+  },
+  {
+    "BuyerName": "K Rajababu",
+    "BuyerAddress": "Kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-03",
+    "InvoiceStateCode": "37",
+    "pk": 66,
+    "ServerInsertedTimeStamp": "2025-10-03T14:04:07.396Z"
+  },
+  {
+    "BuyerName": "veera swamy",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 67,
+    "ServerInsertedTimeStamp": "2025-10-04T04:22:55.770Z"
+  },
+  {
+    "BuyerName": "srinu",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 68,
+    "ServerInsertedTimeStamp": "2025-10-04T04:45:45.797Z"
+  },
+  {
+    "BuyerName": "prasad",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 69,
+    "ServerInsertedTimeStamp": "2025-10-04T05:08:35.056Z"
+  },
+  {
+    "BuyerName": "krishna",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 70,
+    "ServerInsertedTimeStamp": "2025-10-04T05:23:17.196Z"
+  },
+  {
+    "BuyerName": "giri mec",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 71,
+    "ServerInsertedTimeStamp": "2025-10-04T05:25:21.860Z"
+  },
+  {
+    "BuyerName": "trinath automobiles",
+    "BuyerAddress": "prathipadu",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 72,
+    "ServerInsertedTimeStamp": "2025-10-04T05:28:45.337Z"
+  },
+  {
+    "BuyerName": "vasantharao",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 73,
+    "ServerInsertedTimeStamp": "2025-10-04T05:51:36.303Z"
+  },
+  {
+    "BuyerName": "madhu",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 74,
+    "ServerInsertedTimeStamp": "2025-10-04T06:16:15.309Z"
+  },
+  {
+    "BuyerName": "robin",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 75,
+    "ServerInsertedTimeStamp": "2025-10-04T06:32:42.848Z"
+  },
+  {
+    "BuyerName": "likith",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 76,
+    "ServerInsertedTimeStamp": "2025-10-04T06:37:30.607Z"
+  },
+  {
+    "BuyerName": "rambabu m",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 77,
+    "ServerInsertedTimeStamp": "2025-10-04T06:42:14.017Z"
+  },
+  {
+    "BuyerName": "v siva",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 78,
+    "ServerInsertedTimeStamp": "2025-10-04T06:49:01.299Z"
+  },
+  {
+    "BuyerName": "sai baba",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 79,
+    "ServerInsertedTimeStamp": "2025-10-04T06:59:15.090Z"
+  },
+  {
+    "BuyerName": "anji",
+    "BuyerAddress": "karapa",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 80,
+    "ServerInsertedTimeStamp": "2025-10-04T07:08:34.477Z"
+  },
+  {
+    "BuyerName": "ravi",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 81,
+    "ServerInsertedTimeStamp": "2025-10-04T08:15:35.594Z"
+  },
+  {
+    "BuyerName": "anwar",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 82,
+    "ServerInsertedTimeStamp": "2025-10-04T08:19:55.751Z"
+  },
+  {
+    "BuyerName": "ravi",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 83,
+    "ServerInsertedTimeStamp": "2025-10-04T08:23:29.157Z"
+  },
+  {
+    "BuyerName": "veeresh",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 84,
+    "ServerInsertedTimeStamp": "2025-10-04T08:25:08.757Z"
+  },
+  {
+    "BuyerName": "ramana",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 85,
+    "ServerInsertedTimeStamp": "2025-10-04T10:09:31.847Z"
+  },
+  {
+    "BuyerName": "Trinath automobiles",
+    "BuyerAddress": "prathipadu",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 86,
+    "ServerInsertedTimeStamp": "2025-10-04T11:58:41.028Z"
+  },
+  {
+    "BuyerName": "m varalakshmi",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 87,
+    "ServerInsertedTimeStamp": "2025-10-04T12:19:32.572Z"
+  },
+  {
+    "BuyerName": "mani",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 88,
+    "ServerInsertedTimeStamp": "2025-10-04T14:03:44.489Z"
+  },
+  {
+    "BuyerName": "trinath automobiles",
+    "BuyerAddress": "Prathipadu",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 89,
+    "ServerInsertedTimeStamp": "2025-10-04T14:27:30.240Z"
+  },
+  {
+    "BuyerName": "s veerraju",
+    "BuyerAddress": "chollangi",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 90,
+    "ServerInsertedTimeStamp": "2025-10-04T15:20:22.164Z"
+  },
+  {
+    "BuyerName": "harsha",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 91,
+    "ServerInsertedTimeStamp": "2025-10-04T15:32:19.241Z"
+  },
+  {
+    "BuyerName": "vijay",
+    "BuyerAddress": "DRAKSHARAMAM",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-04",
+    "InvoiceStateCode": "37",
+    "pk": 92,
+    "ServerInsertedTimeStamp": "2025-10-04T15:43:08.764Z"
+  },
+  {
+    "BuyerName": "bhaskar",
+    "BuyerAddress": "chollangi",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 93,
+    "ServerInsertedTimeStamp": "2025-10-05T04:10:45.063Z"
+  },
+  {
+    "BuyerName": "DAILY SALE",
+    "BuyerAddress": "",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 94,
+    "ServerInsertedTimeStamp": "2025-10-05T04:33:31.443Z"
+  },
+  {
+    "BuyerName": "varun",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 95,
+    "ServerInsertedTimeStamp": "2025-10-05T04:36:31.543Z"
+  },
+  {
+    "BuyerName": "RR AUTOMOBILES",
+    "BuyerAddress": "T NAGAR RAJAHMUNDRY",
+    "BuyerGST": "37AANFR0743A2ZE",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 96,
+    "ServerInsertedTimeStamp": "2025-10-05T04:43:21.869Z"
+  },
+  {
+    "BuyerName": "DANARAJU",
+    "BuyerAddress": "KAKINADA",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 97,
+    "ServerInsertedTimeStamp": "2025-10-05T04:45:19.563Z"
+  },
+  {
+    "BuyerName": "GV BABU",
+    "BuyerAddress": "KAKINADA",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 98,
+    "ServerInsertedTimeStamp": "2025-10-05T04:55:39.836Z"
+  },
+  {
+    "BuyerName": "t srinu",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 99,
+    "ServerInsertedTimeStamp": "2025-10-05T05:07:36.527Z"
+  },
+  {
+    "BuyerName": "raju",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 100,
+    "ServerInsertedTimeStamp": "2025-10-05T05:12:59.480Z"
+  },
+  {
+    "BuyerName": "nani",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 101,
+    "ServerInsertedTimeStamp": "2025-10-05T05:28:56.512Z"
+  },
+  {
+    "BuyerName": "srinu",
+    "BuyerAddress": "uppada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 102,
+    "ServerInsertedTimeStamp": "2025-10-05T05:35:32.697Z"
+  },
+  {
+    "BuyerName": "suresh",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 103,
+    "ServerInsertedTimeStamp": "2025-10-05T05:43:01.176Z"
+  },
+  {
+    "BuyerName": "satyanarayana",
+    "BuyerAddress": "kakinada",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 104,
+    "ServerInsertedTimeStamp": "2025-10-05T06:53:26.611Z"
+  },
+  {
+    "BuyerName": "siva bike care",
+    "BuyerAddress": "rajupalem 9553603387",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-05",
+    "InvoiceStateCode": "37",
+    "pk": 105,
+    "ServerInsertedTimeStamp": "2025-10-05T06:59:18.777Z"
   }
 ]

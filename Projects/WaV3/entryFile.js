@@ -1,6 +1,6 @@
 import express from 'express';
 import { StartFunc as StartFuncFromStartWA } from "./startWA.js";
-import { StartFunc as StartFuncFromSendMessage } from "./sendMessage.js";
+import { StartFunc as StartFuncFromSendMessage } from "./SendMessage/entryFile.js";
 
 var router = express.Router();
 
@@ -10,10 +10,12 @@ router.get('/Start', async (req, res) => {
     await res.end();
 });
 
-router.get('/SendMessage', async (req, res) => {
-    await StartFuncFromSendMessage({ inReponse: res });
+router.get('/SendMessage/:Pk', async (req, res) => {
+    const LocalPk = req.params.Pk;
 
-    await res.end();
+    const LocalFromSend = await StartFuncFromSendMessage({ inPk: LocalPk });
+
+    await res.end(LocalFromSend);
 });
 
 export { router };

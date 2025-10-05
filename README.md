@@ -63,4 +63,8 @@ If you want to run the server with environment variables:
 
 - Projects WaV3 started
 
+### 1.1.4
+
+- WaV3 bill sent successfull
+
 ---

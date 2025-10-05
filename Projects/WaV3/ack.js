@@ -5,7 +5,7 @@ const StartFunc = (msg, ack) => {
     // - 1: Received
     // - 2: Read
     // - 3: Played (for voice notes)
-    console.log(`iiiiiiiiii ${msg.id}`);
+    console.log(`iiiiiiiiii ${msg.id.id}`);
     if (ack === 0) {
         console.log(`Message "${msg.body}" to ${msg.to} was sent successfully.`);
     } else if (ack === 1) {
