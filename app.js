@@ -15,7 +15,7 @@ var port = normalizePort(process.env.PORT || 3000);
 import { StartFunc as StartFuncFromMiddleware } from "./Token/MiddleWares/entryFile.js";
 
 import { StartFunc as StartFuncFromWebSocketServer } from "./Projects/WebSocketServer/V2/entryFile.js";
-import { StartFunc as StartFuncFromWaV2 } from "./Projects/WaV2/entryFile.js";
+import { router as routerFromWA } from "./Projects/WaV3/entryFile.js";
 
 import { router as routerFromSecret } from "./Secret/routes.js";
 import { router as routerFromUsers } from "./Users/routes.js";
@@ -27,9 +27,11 @@ import { router as routerFromSV6 } from "./SV6/routes.js";
 app.use(express.static('Public'));
 app.use(cookieParser());
 
-app.get('/StartWA', async (req, res) => {
-    await StartFuncFromWaV2({ inReponse: res });
-});
+// app.get('/StartWA', async (req, res) => {
+//     await StartFuncFromWaV3({ inReponse: res });
+// });
+
+app.use("/WA", routerFromWA);
 
 app.use("/Secret", routerFromSecret);
 app.use("/Users", routerFromUsers);

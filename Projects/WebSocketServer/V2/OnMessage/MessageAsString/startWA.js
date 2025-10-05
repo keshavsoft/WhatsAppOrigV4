@@ -1,4 +1,4 @@
-import { StartFunc as StartFuncFromWA } from "../../../../WaV2/entryFile.js";
+import { StartFunc as StartFuncFromWA } from "../../../../WaV3/startWA.js";
 
 let StartFunc = async () => {
     await StartFuncFromWA();

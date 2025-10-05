@@ -59,4 +59,8 @@ If you want to run the server with environment variables:
 
 - simle billing working good
 
+### 1.1.3
+
+- Projects WaV3 started
+
 ---
