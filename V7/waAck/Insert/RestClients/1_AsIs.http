@@ -1,0 +1,7 @@
+POST http://localhost:9114/V7/waAck/Insert/AsIs
+Content-Type: application/json
+
+{
+  "Key": "k1",
+  "Value": "v1"
+}

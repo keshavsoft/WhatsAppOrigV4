@@ -4,6 +4,7 @@
         "StudentNames",
         "messages",
         "BillsTable",
-        "BillItemsTable"
+        "BillItemsTable",
+        "waAck"
     ]
 }

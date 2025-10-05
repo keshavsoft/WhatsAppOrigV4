@@ -67,4 +67,8 @@ If you want to run the server with environment variables:
 
 - WaV3 bill sent successfull
 
+### 1.1.5
+
+- wa bill sent with confirmation in data
+
 ---

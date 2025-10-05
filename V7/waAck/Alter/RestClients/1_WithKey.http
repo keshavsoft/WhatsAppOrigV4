@@ -1,0 +1,6 @@
+POST http://localhost:9114/V7/waAck/Alter/WithKey/{Key}
+Content-Type: application/json
+
+{
+  "Value": ""
+}

@@ -15,7 +15,13 @@ router.get('/SendMessage/:Pk', async (req, res) => {
 
     const LocalFromSend = await StartFuncFromSendMessage({ inPk: LocalPk });
 
-    await res.end(LocalFromSend);
+    if (LocalFromSend) {
+        res.status(200).send("Sent successfully");
+        
+        return;
+    };
+  
+    res.status(404).send("Error");
 });
 
 export { router };

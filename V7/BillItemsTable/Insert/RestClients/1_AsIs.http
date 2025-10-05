@@ -1,0 +1,7 @@
+POST http://localhost:9114/V7/BillItemsTable/Insert/AsIs
+Content-Type: application/json
+
+{
+  "Key": "",
+  "Value": ""
+}
