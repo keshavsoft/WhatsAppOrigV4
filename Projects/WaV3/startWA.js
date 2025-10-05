@@ -6,7 +6,8 @@ import { StartFunc as StartFuncFromInwardMessage } from "./InwardMessage/entryFi
 
 import { StartFunc as StartFuncFromQrCodeGenerated } from "../../CommonExpose/qrCodeGenerated.js";
 import { startFunc as clientInfoFunc } from "../../CommonExpose/clientInfo.js";
-import { StartFunc as StartFuncFromAck } from "./ack.js";
+// import { StartFunc as StartFuncFromAck } from "./ack.js";
+import { StartFunc as StartFuncFromAck } from "./AckFunctions/entryFile.js";
 
 const StartFunc = async () => {
     // const client = new Client();

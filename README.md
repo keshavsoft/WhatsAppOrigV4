@@ -71,4 +71,8 @@ If you want to run the server with environment variables:
 
 - wa bill sent with confirmation in data
 
+### 1.1.6
+
+- wa tables added
+
 ---

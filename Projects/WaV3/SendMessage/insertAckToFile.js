@@ -20,11 +20,22 @@ const StartFunc = ({ inPk, inAckId }) => {
         return false;
     };
 
-    LocalBillsDataAsJson[inPk] = {};
-    LocalBillsDataAsJson[inPk].WAAckId = inAckId;
+    const LocalObjectToInsert = LocalFuncPrepareObject({ inAckId });
+
+    LocalBillsDataAsJson[inPk] = [];
+    LocalBillsDataAsJson[inPk].push(LocalObjectToInsert);
 
     fs.writeFileSync(LocalDataPath, JSON.stringify(LocalBillsDataAsJson));
     return true;
+};
+
+const LocalFuncPrepareObject = ({ inAckId }) => {
+    let LocalObjectToReturn = {};
+
+    LocalObjectToReturn.WAAckId = inAckId;
+    LocalObjectToReturn.InsertedTS = new Date();
+
+    return LocalObjectToReturn;
 };
 
 export { StartFunc };
