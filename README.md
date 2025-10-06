@@ -87,4 +87,8 @@ If you want to run the server with environment variables:
 
 - bill perfect creation to pdf
 
+### 1.1.10
+
+- WA send link in UI also
+
 ---
