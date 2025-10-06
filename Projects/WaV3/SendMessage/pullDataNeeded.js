@@ -61,13 +61,20 @@ const LocalFuncPullFromJsonForBillItems = ({ inPk }) => {
     const LocalBillsData = fs.readFileSync(LocalDataPath);
     const LocalBillsDataAsJson = JSON.parse(LocalBillsData);
 
-    return LocalBillsDataAsJson;
+    const LocalArray = LocalBillsDataAsJson.filter(element => {
+        return element.FK === inPk;
+    });
+
+    return LocalArray;
 };
 
 const LocalFuncForTotal = ({ inItemsArray }) => {
     const jVarLocalAmountArray = inItemsArray.map(element => {
-        return parseInt(((element.Rate * element.Qty) * ((100 - (element.DiscPer === undefined ? 0 : element.DiscPer)) / 100)).toFixed(0));
+        const LoopInsideValue = (100 - ((element.DiscPer === undefined || element.DiscPer === null) ? 0 : element.DiscPer)) / 100;
+        // return parseInt(((element.Rate * element.Qty) * ((100 - ((element.DiscPer === undefined || element.DiscPer === null) ? 0 : element.DiscPer)) / 100)).toFixed(0));
+        return parseInt(((element.Rate * element.Qty) * LoopInsideValue).toFixed(0));
     });
+    // console.log("jVarLocalAmountArray : ", jVarLocalAmountArray);
 
     const sum = jVarLocalAmountArray.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
 
@@ -78,7 +85,7 @@ const LocalFuncForTotal = ({ inItemsArray }) => {
         TaxableValue: jVarLocalTaxableValue.toFixed(2),
         TaxString: jVarLocalTaxString,
         TotalAmount: ` ₹ ${sum.toFixed(0)}`
-    }
+    };
 };
 
 export { StartFunc };

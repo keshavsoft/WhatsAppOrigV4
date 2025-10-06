@@ -83,4 +83,8 @@ If you want to run the server with environment variables:
 
 - WA automatic messages perfect with TF from .env file : WASendMessageTF
 
+### 1.1.9
+
+- bill perfect creation to pdf
+
 ---

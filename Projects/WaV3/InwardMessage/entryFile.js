@@ -10,6 +10,7 @@ const StartFunc = async msg => {
     const defaultData = [];
     const LocalFromNumber = msg.from;
     const timestamp = msg.timestamp;
+    console.log("aaaaaaaaaaaaa  : ", msg.body);
 
     await StartFuncFromInsertToFile({
         inFrom: LocalFromNumber,
