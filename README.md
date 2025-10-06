@@ -79,4 +79,8 @@ If you want to run the server with environment variables:
 
 - V7 only nonsec for array
 
+### 1.1.8
+
+- WA automatic messages perfect with TF from .env file : WASendMessageTF
+
 ---

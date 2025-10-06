@@ -1,1 +1,4 @@
-{}
+{
+    "ping": "pong",
+    "hi": "hello"
+}

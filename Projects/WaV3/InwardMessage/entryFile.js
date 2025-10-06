@@ -4,7 +4,7 @@ import { StartFunc as StartFuncFromIfInMobiles } from "./ifInMobiles.js";
 import { StartFunc as StartFuncFromIfNotInMobiles } from "./ifNotInMobiles.js";
 import { StartFunc as StartFuncFromInsertToFile } from "../insertToFile.js";
 import { CheckLastEntry, InsertFunc as InsertFuncFromForWA } from "../../../CommonExpose/forWA.js";
-const CommonSendMessage = false;
+const CommonSendMessage = process.env.WASendMessageTF || true;
 
 const StartFunc = async msg => {
     const defaultData = [];
